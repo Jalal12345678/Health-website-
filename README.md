@@ -190,3 +190,4 @@ with zipfile.ZipFile(zip_path, 'w') as zipf:
 
 
 zip_path
+git add .
